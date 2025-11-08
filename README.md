@@ -6,7 +6,7 @@ This repository showcases my development skills in Java, featuring two distinct 
 
 Primary Language: Java
 
-GUI Libraries: [Identify the library you used, e.g., Swing, JavaFX, or AWT]
+GUI Libraries:Swing
 
 
 
@@ -14,16 +14,12 @@ GUI Libraries: [Identify the library you used, e.g., Swing, JavaFX, or AWT]
 
 🎯 Overview
 
-This is a [Describe the type of calculator, e.g., standard, scientific, etc.] calculator application built using Java. It features a graphical user interface (GUI) to perform standard arithmetic operations.
+This is a calculator application built using Java. It features a graphical user interface (GUI) to perform standard arithmetic operations.
 
 
 ✨ Key Features
 
 Performs basic operations: Addition, Subtraction, Multiplication, Division.
-
-[Add a specific feature, e.g., Supports keyboard input.]
-
-[Add a specific feature, e.g., Clear button (C) to reset the input.]
 
 
 
@@ -40,9 +36,6 @@ Two-player mode (X and O).
 
 Automatic win detection (checking rows, columns, and diagonals).
 
-[Add a specific feature, e.g., Reset game button.]
-
-[Add a specific feature, e.g., Simple scoring or turn indicator.]
 
 🤝 Contribution
 
